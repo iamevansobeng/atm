@@ -22,7 +22,7 @@
 
 ### App Feauteres
 
-1.  Login {The default password is 5555}  
+1.  Login {The default password is 8879}  
 2.  Checking Balance
 3.  Deposit to Account
 4.  Withdraw from Account {Cannot leave account less than $50}
